@@ -1,8 +1,11 @@
 # 🛸 Meteroid Dodge
 A voice-controlled arcade game built with **Python**, **Pygame**, and **Vosk**. You dodge falling meteors by speaking commands like **"left"**, **"right"**, and **"stop"**. Start and restart the game using **voice or keyboard**, and track your high score!
 
-![screenshot](assets/screenshot1.png) 
+## download game from here
+[Download here](https://drive.google.com/uc?export=download&id=1YgLKGR-kLKZzVZVwE5OQJnDEaF4gLNlF)
+
 ![screenshot](assets/screenshot2.png) 
+![screenshot](assets/screenshot1.png) 
 ![screenshot](assets/screenshot3.png) 
 
 ## folder structure
