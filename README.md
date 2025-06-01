@@ -8,8 +8,6 @@ A voice-controlled arcade game built with **Python**, **Pygame**, and **Vosk**. 
 ![screenshot](assets/screenshot1.png) 
 ![screenshot](assets/screenshot3.png) 
 
-## folder structure
-<pre> meteroid-dodge/ ├── main.py ├── bgimage.jpg ├── player.png ├── meteor.png ├── high_score.txt ├── model/ │ └── vosk-model ├── screenshot.jpg ├── README.md </pre>
 
 ## ▶️ How to Run
 
