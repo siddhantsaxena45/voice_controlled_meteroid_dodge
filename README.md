@@ -7,8 +7,8 @@ A voice-controlled arcade game built with **Python**, **Pygame**, and **Vosk**. 
 ## ▶️ How to Run
 
 ### 1. Clone the Repo
-git clone https://github.com/siddhantsaxena/meteroid-dodge.git
-cd meteroid-dodge
+- git clone https://github.com/siddhantsaxena/meteroid-dodge.git
+- cd meteroid-dodge
 
 ### 2. Install Dependencies
 pip install pygame sounddevice vosk
