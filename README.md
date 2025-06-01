@@ -4,11 +4,6 @@ A voice-controlled arcade game built with **Python**, **Pygame**, and **Vosk**. 
 ## download game from here
 [Download here](https://drive.google.com/uc?export=download&id=1YgLKGR-kLKZzVZVwE5OQJnDEaF4gLNlF)
 
-![screenshot](assets/screenshot2.png) 
-![screenshot](assets/screenshot1.png) 
-![screenshot](assets/screenshot3.png) 
-
-
 ## ▶️ How to Run
 
 ### 1. Clone the Repo
@@ -40,9 +35,12 @@ python main.py
 Also:
 - Press ENTER to start/restart
 - Press ESC to quit
+- 
+![screenshot](assets/screenshot2.png) 
+![screenshot](assets/screenshot1.png) 
+![screenshot](assets/screenshot3.png) 
 
 ## 📄 License
-
 This project is created for learning and demonstration purposes.  
 Feel free to use and modify with credit.
 
