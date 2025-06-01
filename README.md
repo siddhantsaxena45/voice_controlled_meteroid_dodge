@@ -35,7 +35,7 @@ python main.py
 Also:
 - Press ENTER to start/restart
 - Press ESC to quit
-- 
+  
 ![screenshot](assets/screenshot2.png) 
 ![screenshot](assets/screenshot1.png) 
 ![screenshot](assets/screenshot3.png) 
